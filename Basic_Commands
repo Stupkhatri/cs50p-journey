@@ -1,1 +1,8 @@
 # Learning commands; git add, git commit, git push
+print('Are you hungry?')
+x = input()
+
+if x == "yes":
+    print("I'm hungry")
+else:
+    print('NO')
